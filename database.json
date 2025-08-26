@@ -1,7 +1,6 @@
 {
-  "users": {
-    "6289518095830": "DIGIMON",
-    "6289876543210": "abc123",
-    "628111222333": "rahasia"
-  }
+  "users": [
+    { "number": "6289518095830", "password": "DIGIMON" },
+    { "number": "6289876543210", "password": "secret456" }
+  ]
 }
