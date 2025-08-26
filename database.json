@@ -1,7 +1,14 @@
 {
-  "numbers": [
-    "6287826256745",
-    "6289518095830",
-    "6287826597602"
-  ]
+  "6289518095830": {
+    "name": "ryymodz",
+    "password": "DIGIMON"
+  },
+  "6289876543210": {
+    "name": "Ani",
+    "password": "DIGIMON"
+  },
+  "628111222333": {
+    "name": "Joko",
+    "password": "DIGIMON"
+  }
 }
