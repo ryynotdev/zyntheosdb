@@ -1,14 +1,7 @@
 {
-  "6289518095830": {
-    "name": "ryymodz",
-    "password": "DIGIMON"
-  },
-  "6289876543210": {
-    "name": "Ani",
-    "password": "DIGIMON"
-  },
-  "628111222333": {
-    "name": "Joko",
-    "password": "DIGIMON"
+  "users": {
+    "6289518095830": "DIGIMON",
+    "6289876543210": "abc123",
+    "628111222333": "rahasia"
   }
 }
