@@ -1,14 +1,7 @@
 {
-  "6289518095830": {
-    "name": "ryymodz",
-    "password": "Zyntheos"
-  },
-  "6287826597602": {
-    "name": "asepmodz",
-    "password": "Zyntheos"
-  },
-  "6287826256745": {
-    "name": "budi",
-    "password": "Zyntheos"
-  }
+  "data": [
+    "6287826256745",
+    "6289518095830",
+    "6287826597602"
+  ]
 }
